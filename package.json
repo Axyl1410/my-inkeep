@@ -16,9 +16,9 @@
     "setup-dev": "node scripts/setup.js"
   },
   "dependencies": {
-    "@inkeep/agents-core": "^0.33.2",
-    "@inkeep/agents-manage-ui": "^0.33.2",
-    "@inkeep/agents-sdk": "^0.33.2",
+    "@inkeep/agents-core": "^0.36.1",
+    "@inkeep/agents-manage-ui": "^0.36.1",
+    "@inkeep/agents-sdk": "^0.36.1",
     "@tailwindcss/vite": "^4.1.14",
     "dotenv": "^17.2.3",
     "tailwindcss": "^4.1.14",
