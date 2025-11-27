@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       '@inkeep/agents-core':
-        specifier: ^0.36.1
-        version: 0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
+        specifier: ^0.35.12
+        version: 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
       '@inkeep/agents-manage-ui':
-        specifier: ^0.36.1
-        version: 0.36.1(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3)
+        specifier: ^0.35.12
+        version: 0.35.12(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3)
       '@inkeep/agents-sdk':
-        specifier: ^0.36.1
-        version: 0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)
+        specifier: ^0.35.12
+        version: 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)
       '@tailwindcss/vite':
         specifier: ^4.1.14
         version: 4.1.17(vite@7.2.2(@types/node@24.10.1)(jiti@2.6.1)(lightningcss@1.30.2)(tsx@4.20.6)(yaml@2.8.1))
@@ -34,8 +34,8 @@ importers:
         specifier: ^2.3.2
         version: 2.3.6
       '@inkeep/agents-cli':
-        specifier: ^0.33.2
-        version: 0.33.2(@electric-sql/pglite@0.3.14)(@inkeep/agents-manage-ui@0.36.1(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@opentelemetry/resources@2.2.0(@opentelemetry/api@1.9.0))(@opentelemetry/sdk-metrics@2.2.0(@opentelemetry/api@1.9.0))(@opentelemetry/sdk-trace-base@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(zod@4.1.12)
+        specifier: ^0.35.12
+        version: 0.35.12(0c9e4e9e21e83d275e357840358c9436)
       concurrently:
         specifier: ^9.2.1
         version: 9.2.1
@@ -1425,8 +1425,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@inkeep/agents-cli@0.33.2':
-    resolution: {integrity: sha512-utbZwH3fQ/CphXo7eRrbEUI4TbdIwodKjR7gCLWX4UWnjVWa7Vb2P+jr2ThRqBkcRMV8sYOjLTPKRed8B/htlw==}
+  '@inkeep/agents-cli@0.35.12':
+    resolution: {integrity: sha512-HVrw2pEFVXNW/4qVugIUJYjTmkhS+EUIYLNK8Xkp4tMrtMT7+Sj0hW0gtE1J+9Ov2s5mK22wdkHU909F3RMAOw==}
     engines: {node: '>=22.0.0'}
     hasBin: true
     peerDependencies:
@@ -1437,8 +1437,8 @@ packages:
     resolution: {integrity: sha512-DJU1uNdaWTOw2dOT+EdD9hvbEtA7Sry0GVMp80uu8tjUfeWYeNspVxF9V7Azw+YlP0QiVGdJZEP5YHrORqTIaw==}
     engines: {node: '>=22.0.0'}
 
-  '@inkeep/agents-core@0.36.1':
-    resolution: {integrity: sha512-vPBwAOVkb4e/78N2A/jO2Xw3IXj42ygHeBoBz97Hns94r3Px7bdusUe198RC/w9f1X56s5fI+S6r9slO4SIwBg==}
+  '@inkeep/agents-core@0.35.12':
+    resolution: {integrity: sha512-9OPngFo25XCdX4Wwj4IUtzTfdDPX6PW+632/bn6Uy54lUxS+1N/OVvFJ+6LtljWg5L4CsE0qsDRw437j3a8v7Q==}
     engines: {node: '>=22.0.0'}
     peerDependencies:
       '@hono/zod-openapi': ^1.0.2
@@ -1448,28 +1448,24 @@ packages:
     resolution: {integrity: sha512-zPpvtCivmlOtsLa2QquPc1k4swiMijUzaWM4D69fcSOn2f+p2jAZ0WGe+F+q7fQzvtnOqEbI5C0aWMuFQjI81g==}
     engines: {node: '>=22.0.0'}
 
-  '@inkeep/agents-manage-api@0.36.1':
-    resolution: {integrity: sha512-B0d5G80y283/29a1IYv1+lCIQBnL4aXLB9nKrMWxcTDXGR/oq8KAR0O7gPrLlcM2nmtNFoM2opzqXeFL6V64Ow==}
+  '@inkeep/agents-manage-api@0.35.12':
+    resolution: {integrity: sha512-LZOtcjabG9RlZxU8rzj/+oZxVmlUmOp34X+HlpDZvrR31D6HwdpH9EAIdnBdRGLykYd2KN6GZupWg2ePRinkoQ==}
     engines: {node: '>=22.0.0'}
 
-  '@inkeep/agents-manage-ui@0.36.1':
-    resolution: {integrity: sha512-HrL0iaHwEgH1EepS+Sn+sDGeJD3YpgnNUsFwNObsWQFrRKusjG0Mj0QDO2EY7/PdsYy/CUnf9VKO0lVchwMD5g==}
+  '@inkeep/agents-manage-ui@0.35.12':
+    resolution: {integrity: sha512-PhcFVpVDKlk7kpxUt729T3rviBLVmMEqOsYu+4cPGvW6YmpP6GR/qs6IV4uTIjG2e0mxajkr7ItxI2IlUWh7AQ==}
     engines: {node: '>=22.0.0'}
 
   '@inkeep/agents-run-api@0.33.2':
     resolution: {integrity: sha512-GIX9/YIVJW4F6E4yy35o6Zg0xmMLKElXn5L7AkWLBMQfTKn8YZvk8K3iVMm8VLuGlkTTgHM1As/ZbgkT9o0/gw==}
     engines: {node: '>=22.0.0'}
 
-  '@inkeep/agents-run-api@0.36.1':
-    resolution: {integrity: sha512-Cu9ctjv2K/Vc6EqxFOXCPt+/MNJ9Jipx4z1YsBhYcjJmkz2oM8BDD/JZLWX4rdWwj+EXUE0zlZ4lS1YvSzyE+A==}
+  '@inkeep/agents-run-api@0.35.12':
+    resolution: {integrity: sha512-Yp8lMUaWSLHdLKcu09R3KHrXw3dwheeEt6CIuwRcqLM6huZRQWDLZHKFi9jlpPQOnkU7QaO3fiwbGSI/g89MdQ==}
     engines: {node: '>=22.0.0'}
 
-  '@inkeep/agents-sdk@0.33.2':
-    resolution: {integrity: sha512-mY4EvvLEKL2wjVNXyVXIg1+Er8agHn3HJFT5fsXo8gREK27JPBCESFq7L9fGjrs/xQHhyfBvOdOcvDrccc5+SQ==}
-    engines: {node: '>=22.0.0'}
-
-  '@inkeep/agents-sdk@0.36.1':
-    resolution: {integrity: sha512-ahfdcyH9Aj7KNCmYuplSZlI36KDWf/p0tcPEANKMAyuGRadCVHEGWDUUVe0FGg8icr9MH3drGTJ3JyuWnSXdBQ==}
+  '@inkeep/agents-sdk@0.35.12':
+    resolution: {integrity: sha512-GSK408hSU6HujT5cPCqjNGGJ4abaiYgJS38VK4429SdKUMH/5+pt6MQnka54vab0EskhdY+cqNPnHe+prIblfQ==}
     engines: {node: '>=22.0.0'}
 
   '@inkeep/agents-ui@0.15.3':
@@ -9453,17 +9449,18 @@ snapshots:
   '@img/sharp-win32-x64@0.34.5':
     optional: true
 
-  '@inkeep/agents-cli@0.33.2(@electric-sql/pglite@0.3.14)(@inkeep/agents-manage-ui@0.36.1(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@opentelemetry/resources@2.2.0(@opentelemetry/api@1.9.0))(@opentelemetry/sdk-metrics@2.2.0(@opentelemetry/api@1.9.0))(@opentelemetry/sdk-trace-base@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(zod@4.1.12)':
+  '@inkeep/agents-cli@0.35.12(0c9e4e9e21e83d275e357840358c9436)':
     dependencies:
       '@ai-sdk/anthropic': 2.0.2(zod@4.1.12)
       '@ai-sdk/google': 2.0.34(zod@4.1.12)
       '@ai-sdk/openai': 2.0.11(zod@4.1.12)
       '@babel/parser': 7.28.5
       '@babel/types': 7.28.5
+      '@better-auth/sso': 1.4.3(better-auth@1.4.3(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0))
       '@clack/prompts': 0.11.0
-      '@inkeep/agents-core': 0.33.2(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)
-      '@inkeep/agents-manage-ui': 0.36.1(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3)
-      '@inkeep/agents-sdk': 0.33.2(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)
+      '@inkeep/agents-core': 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
+      '@inkeep/agents-manage-ui': 0.35.12(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3)
+      '@inkeep/agents-sdk': 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)
       '@opentelemetry/api-logs': 0.206.0
       '@opentelemetry/instrumentation': 0.206.0(@opentelemetry/api@1.9.0)
       '@opentelemetry/sdk-logs': 0.206.0(@opentelemetry/api@1.9.0)
@@ -9493,8 +9490,10 @@ snapshots:
       - '@cfworker/json-schema'
       - '@cloudflare/workers-types'
       - '@electric-sql/pglite'
+      - '@hono/zod-openapi'
       - '@libsql/client'
       - '@libsql/client-wasm'
+      - '@lynx-js/react'
       - '@neondatabase/serverless'
       - '@op-engineering/op-sqlite'
       - '@opentelemetry/api'
@@ -9504,6 +9503,7 @@ snapshots:
       - '@opentelemetry/sdk-trace-base'
       - '@planetscale/database'
       - '@prisma/client'
+      - '@sveltejs/kit'
       - '@tidbcloud/serverless'
       - '@types/better-sqlite3'
       - '@types/pg'
@@ -9511,6 +9511,7 @@ snapshots:
       - '@upstash/redis'
       - '@vercel/postgres'
       - '@xata.io/client'
+      - better-auth
       - better-sqlite3
       - bun-types
       - debug
@@ -9520,12 +9521,19 @@ snapshots:
       - knex
       - kysely
       - mysql2
+      - next
       - pg-native
       - postgres
       - prisma
+      - react
+      - react-dom
+      - solid-js
       - sql.js
       - sqlite3
       - supports-color
+      - svelte
+      - vue
+      - ws
 
   '@inkeep/agents-core@0.33.2(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)':
     dependencies:
@@ -9598,7 +9606,7 @@ snapshots:
       - sqlite3
       - supports-color
 
-  '@inkeep/agents-core@0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)':
+  '@inkeep/agents-core@0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)':
     dependencies:
       '@better-auth/sso': 1.4.3(better-auth@1.4.3(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0))
       '@composio/core': 0.2.6(ws@8.18.3)(zod@4.1.12)
@@ -9681,7 +9689,7 @@ snapshots:
       - vue
       - ws
 
-  '@inkeep/agents-core@0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.5)':
+  '@inkeep/agents-core@0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.5)':
     dependencies:
       '@better-auth/sso': 1.4.3(better-auth@1.4.3(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0))
       '@composio/core': 0.2.6(ws@8.18.3)(zod@4.1.5)
@@ -9819,13 +9827,13 @@ snapshots:
       - sqlite3
       - supports-color
 
-  '@inkeep/agents-manage-api@0.36.1(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)':
+  '@inkeep/agents-manage-api@0.35.12(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)':
     dependencies:
       '@composio/core': 0.2.6(ws@8.18.3)(zod@4.1.12)
       '@hono/node-server': 1.19.6(hono@4.10.6)
       '@hono/swagger-ui': 0.5.2(hono@4.10.6)
       '@hono/zod-openapi': 1.1.4(hono@4.10.6)(zod@4.1.12)
-      '@inkeep/agents-core': 0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
+      '@inkeep/agents-core': 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
       '@nangohq/node': 0.69.13
       '@nangohq/types': 0.69.13
       dotenv: 17.2.3
@@ -9884,7 +9892,7 @@ snapshots:
       - vue
       - ws
 
-  '@inkeep/agents-manage-ui@0.36.1(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3)':
+  '@inkeep/agents-manage-ui@0.35.12(@electric-sql/pglite@0.3.14)(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/mdast@4.0.4)(@types/pg@8.15.5)(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(immer@10.1.3)(kysely@0.28.8)(micromark-util-types@2.0.2)(micromark@4.0.2)(pg@8.16.3)(unified@11.0.5)(use-sync-external-store@1.6.0(react@19.2.0))(ws@8.18.3)':
     dependencies:
       '@ai-sdk/anthropic': 2.0.2(zod@4.1.12)
       '@ai-sdk/gateway': 1.0.41(zod@4.1.12)
@@ -9894,9 +9902,9 @@ snapshots:
       '@ai-sdk/react': 2.0.11(react@19.2.0)(zod@4.1.12)
       '@better-auth/sso': 1.4.3(better-auth@1.4.3(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0))
       '@hookform/resolvers': 5.2.2(react-hook-form@7.66.1(react@19.2.0))
-      '@inkeep/agents-core': 0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
-      '@inkeep/agents-manage-api': 0.36.1(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)
-      '@inkeep/agents-run-api': 0.36.1(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)
+      '@inkeep/agents-core': 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
+      '@inkeep/agents-manage-api': 0.35.12(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)
+      '@inkeep/agents-run-api': 0.35.12(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)
       '@inkeep/agents-ui': 0.15.3(@types/react-dom@19.2.3(@types/react@19.2.6))(@types/react@19.2.6)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@lezer/highlight': 1.2.3
       '@nangohq/frontend': 0.69.13
@@ -10104,7 +10112,7 @@ snapshots:
       - sqlite3
       - supports-color
 
-  '@inkeep/agents-run-api@0.36.1(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)':
+  '@inkeep/agents-run-api@0.35.12(@electric-sql/pglite@0.3.14)(@libsql/client@0.15.15)(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(pg@8.16.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)':
     dependencies:
       '@ai-sdk/anthropic': 2.0.2(zod@4.1.5)
       '@ai-sdk/gateway': 1.0.41(zod@4.1.5)
@@ -10116,8 +10124,8 @@ snapshots:
       '@hono/node-server': 1.19.6(hono@4.10.6)
       '@hono/otel': 0.4.0(hono@4.10.6)
       '@hono/swagger-ui': 0.5.2(hono@4.10.6)
-      '@hono/zod-openapi': 1.1.4(hono@4.10.6)(zod@4.1.5)
-      '@inkeep/agents-core': 0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.5)
+      '@hono/zod-openapi': 1.1.4(hono@4.10.6)(zod@4.1.12)
+      '@inkeep/agents-core': 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.5)
       '@openrouter/ai-sdk-provider': 1.2.3(ai@5.0.11(zod@4.1.5))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@4.1.5)
       '@opentelemetry/api': 1.9.0
       '@opentelemetry/auto-instrumentations-node': 0.64.6(@opentelemetry/api@1.9.0)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))
@@ -10196,52 +10204,9 @@ snapshots:
       - vue
       - ws
 
-  '@inkeep/agents-sdk@0.33.2(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)':
+  '@inkeep/agents-sdk@0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)':
     dependencies:
-      '@inkeep/agents-core': 0.33.2(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)
-      '@yarnpkg/lockfile': 1.1.0
-      esbuild: 0.25.12
-      js-yaml: 4.1.1
-      nanoid: 5.1.6
-      typescript: 5.9.3
-      zod: 4.1.12
-    transitivePeerDependencies:
-      - '@aws-sdk/client-rds-data'
-      - '@cfworker/json-schema'
-      - '@cloudflare/workers-types'
-      - '@libsql/client'
-      - '@libsql/client-wasm'
-      - '@neondatabase/serverless'
-      - '@op-engineering/op-sqlite'
-      - '@opentelemetry/core'
-      - '@planetscale/database'
-      - '@prisma/client'
-      - '@tidbcloud/serverless'
-      - '@types/better-sqlite3'
-      - '@types/pg'
-      - '@types/sql.js'
-      - '@upstash/redis'
-      - '@vercel/postgres'
-      - '@xata.io/client'
-      - better-sqlite3
-      - bun-types
-      - debug
-      - encoding
-      - expo-sqlite
-      - gel
-      - knex
-      - kysely
-      - mysql2
-      - pg-native
-      - postgres
-      - prisma
-      - sql.js
-      - sqlite3
-      - supports-color
-
-  '@inkeep/agents-sdk@0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)':
-    dependencies:
-      '@inkeep/agents-core': 0.36.1(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.12))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
+      '@inkeep/agents-core': 0.35.12(@hono/zod-openapi@1.1.4(hono@4.10.6)(zod@4.1.5))(@libsql/client@0.15.15)(@opentelemetry/core@2.2.0(@opentelemetry/api@1.9.0))(@types/pg@8.15.5)(kysely@0.28.8)(next@16.0.2(@opentelemetry/api@1.9.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(ws@8.18.3)(zod@4.1.12)
       '@yarnpkg/lockfile': 1.1.0
       esbuild: 0.25.12
       js-yaml: 4.1.1
@@ -10487,7 +10452,7 @@ snapshots:
       pkce-challenge: 5.0.0
       raw-body: 3.0.1
       zod: 3.25.76
-      zod-to-json-schema: 3.24.6(zod@3.25.76)
+      zod-to-json-schema: 3.25.0(zod@3.25.76)
     transitivePeerDependencies:
       - supports-color
 
@@ -18201,10 +18166,6 @@ snapshots:
 
   yocto-queue@1.2.2: {}
 
-  zod-to-json-schema@3.24.6(zod@3.25.76):
-    dependencies:
-      zod: 3.25.76
-
   zod-to-json-schema@3.24.6(zod@4.1.12):
     dependencies:
       zod: 4.1.12
@@ -18212,6 +18173,10 @@ snapshots:
   zod-to-json-schema@3.24.6(zod@4.1.5):
     dependencies:
       zod: 4.1.5
+
+  zod-to-json-schema@3.25.0(zod@3.25.76):
+    dependencies:
+      zod: 3.25.76
 
   zod-to-json-schema@3.25.0(zod@4.1.12):
     dependencies:
